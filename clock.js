@@ -1,3 +1,6 @@
+
+// Created by InfRain. Don't Edit Please. //
+
 function clock()
 {
     var weeks = new Array("SUN","MON","TUE","WED","THR","FRI","SAT");
